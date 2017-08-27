@@ -38,4 +38,4 @@ $ cd packageIndexer
 
 ## Documentation
 
-See `TODO` for the design rationale for this application.
+See `docs/design.md` for the information and design rationale for this application.
